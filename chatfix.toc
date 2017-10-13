@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: chatfix
+## Notes: auto select the first chat tab.
+## Author: Starhammer
+## Version: 1
+
+
+
+chatfix.lua
